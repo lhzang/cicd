@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: leazi/ci-cd:staging2
+          tags: leazi/ci-cd:staging3
 
 
   pull-and-up:
